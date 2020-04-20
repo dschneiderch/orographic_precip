@@ -4,4 +4,4 @@ This repo represents my work on a 3 month project at the German Geoscience Insti
 
 *report.html* is probably most interesting to someone else since this represents my "lab notebook" from my analyses. Hopefully the information in my report will enable someone else to continue this project and come up with a solution for parameterizing spatially variable precipitation in a landscape evolution model.
 
-The full project folder can be downloaded from [Open Science Framework project repository](https://doi.org/10.17605/OSF.IO/64B7M
+The full project folder can be downloaded from the [Open Science Framework project repository](https://doi.org/10.17605/OSF.IO/64B7M)
